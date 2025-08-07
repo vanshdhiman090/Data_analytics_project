@@ -1,4 +1,5 @@
 #🍕 Pizza Sales Data Analysis Project
+
 In this project, I performed a comprehensive analysis of a pizza shop's sales data using SQL in collaboration with ChatGPT to derive valuable business insights. The dataset consisted of four core tables:
 
 ##Pizzas
