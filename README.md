@@ -13,3 +13,6 @@ Utilized advanced SQL joins, aggregate functions, and Common Table Expressions (
 Extracted insights into sales performance, most popular pizza types, and revenue trends across various time periods.
 Demonstrated strong proficiency in data modeling, query optimization, and translating raw data into actionable insights.
 This project showcases my ability to work with relational databases and perform meaningful analysis to support data-driven decision-making.
+
+## Insights and Final Conclusion :
+- <a href = "https://github.com/vanshdhiman090/Data_analytics_project/edit/main/Overview_with_insights"> Insights of Pizza_Sales </a>
