@@ -16,3 +16,6 @@ This project showcases my ability to work with relational databases and perform 
 
 ## Insights and Final Conclusion :
 - <a href = "https://github.com/vanshdhiman090/Data_analytics_project/edit/main/Overview_with_insights"> Insights of Pizza_Sales </a>
+
+## My Sql Quries :
+- <a href = "https://github.com/vanshdhiman090/Data_analytics_project/blob/main/Analysis%20of%20Pizzas.pdf"> My_sql_Quries </a>
